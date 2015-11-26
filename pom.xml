@@ -54,6 +54,10 @@
 			<artifactId>commons-lang3</artifactId>
 		</dependency>
 		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+		</dependency>
+		<dependency>
 			<groupId>net.falsework</groupId>
 			<artifactId>falsework-test</artifactId>
 			<scope>test</scope>
