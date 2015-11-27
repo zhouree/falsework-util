@@ -18,7 +18,6 @@ import java.util.Locale;
 /**
  * 字符串工具类。
  * 
- * @author sea.bao
  */
 public class StringUtil {
 	/**

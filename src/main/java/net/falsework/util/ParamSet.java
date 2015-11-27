@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 参数集合类
  * 
- * @author alex
  */
 public class ParamSet<N, V> extends LinkedHashSet<Param<N, V>> {
 	private static final long serialVersionUID = 1L;

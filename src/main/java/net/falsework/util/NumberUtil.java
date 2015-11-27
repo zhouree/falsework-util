@@ -7,7 +7,6 @@ import java.util.Collection;
 /**
  * Number工具类
  * 
- * @author alex
  */
 public final class NumberUtil {
 	/**

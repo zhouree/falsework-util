@@ -3,7 +3,6 @@ package net.falsework.util;
 /**
  * 身份证工具类
  * 
- * @author alex
  */
 public final class IdUtil {
 	/**

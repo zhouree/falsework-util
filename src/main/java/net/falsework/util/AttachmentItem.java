@@ -5,7 +5,6 @@ import java.io.Serializable;
 /**
  * 附件条目类
  * 
- * @author alex
  */
 public class AttachmentItem implements Serializable {
 	private static final long serialVersionUID = 1L;

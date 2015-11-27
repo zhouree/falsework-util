@@ -19,7 +19,6 @@ import java.util.List;
 /**
  * IO工具类
  * 
- * @author alex
  */
 public final class IOUtil {
 	/**

@@ -23,7 +23,6 @@ import java.util.regex.Pattern;
 /**
  * 文件工具类。
  * 
- * @author sea.bao
  */
 public class FileUtil {
 	/**

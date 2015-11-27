@@ -5,7 +5,6 @@ import java.io.Serializable;
 /**
  * 参数类
  * 
- * @author alex
  */
 public class Param<N, V> implements Serializable {
 	private static final long serialVersionUID = 1L;

@@ -14,7 +14,6 @@ import java.util.regex.Pattern;
 /**
  * 日期工具类
  * 
- * @author sea.bao
  */
 public class DateUtil {
 	private static final int[] TIME_FIELD_LEVELS = { Calendar.YEAR, Calendar.MONTH, Calendar.DATE,

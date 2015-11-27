@@ -6,7 +6,6 @@ import java.util.HashMap;
 /**
  * 检查HashMap实现类，当获取Map中的对象时候，检查是否存在，不存在则报指定NotFound异常。
  * 
- * @author sea.bao
  * 
  * @param <K>
  * @param <V>

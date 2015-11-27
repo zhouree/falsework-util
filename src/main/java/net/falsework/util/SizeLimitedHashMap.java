@@ -3,7 +3,6 @@ package net.falsework.util;
 import java.util.LinkedHashMap;
 
 /**
- * @author install
  *
  * @param <K>
  * @param <V>

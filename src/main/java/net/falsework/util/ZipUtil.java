@@ -13,7 +13,6 @@ import java.util.zip.InflaterInputStream;
 /**
  * 压缩工具类。
  * 
- * @author sea.bao
  */
 public class ZipUtil {
 	public static byte[] zipBytes(byte[] data) {

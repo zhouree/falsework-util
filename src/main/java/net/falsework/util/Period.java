@@ -3,7 +3,6 @@ package net.falsework.util;
 /**
  * 周期描述类
  * 
- * @author sea.bao
  *
  */
 public class Period {

@@ -5,7 +5,6 @@ import java.lang.management.ManagementFactory;
 /**
  * 当前主机信息类。
  * 
- * @author sea.bao
  */
 public class HostInfo {
 	/**

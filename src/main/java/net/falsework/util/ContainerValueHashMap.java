@@ -5,8 +5,6 @@ import java.util.HashMap;
 /**
  * 容器值HashMap类。
  * 
- * @author sea.bao
- * 
  * @param <K>
  * @param <V>
  */

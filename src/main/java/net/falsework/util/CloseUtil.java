@@ -5,7 +5,6 @@ import java.lang.reflect.Method;
 /**
  * 关闭工具类。
  * 
- * @author sea.bao
  */
 public class CloseUtil {
 	public static void close(Object... resList) {

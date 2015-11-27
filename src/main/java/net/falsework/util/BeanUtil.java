@@ -16,7 +16,6 @@ import java.util.WeakHashMap;
 /**
  * Bean工具类
  * 
- * @author alex
  */
 public final class BeanUtil {
 	/**

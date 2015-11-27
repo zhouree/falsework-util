@@ -5,7 +5,6 @@ import java.nio.charset.Charset;
 /**
  * BASE58工具类
  * 
- * @author alex
  */
 public final class Base58 {
 

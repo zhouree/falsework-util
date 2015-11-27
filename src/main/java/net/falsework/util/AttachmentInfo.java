@@ -8,7 +8,6 @@ import java.util.List;
 /**
  * 附件信息类
  * 
- * @author alex
  */
 public class AttachmentInfo implements Serializable {
 	private static final long serialVersionUID = 1L;

@@ -7,7 +7,6 @@ import java.util.List;
 /**
  * 树节点简单实现类 (需要进行序列化操作时，建议不要设置parent属性避免产生递归问题)
  * 
- * @author alex
  */
 public class TreeNode<T> implements Serializable {
 	private static final long serialVersionUID = 1L;

@@ -6,7 +6,6 @@ import java.nio.ByteOrder;
 /**
  * Frame结构长度类，采用BIG_ENDIAN字节顺序，用于网络传输。
  * 
- * @author sea.bao
  */
 public class FrameLen {
 	public static int FRAME_LEN_SIZE;

@@ -5,7 +5,6 @@ import java.util.Map;
 /**
  * 断言类。
  * 
- * @author sea.bao
  */
 public class Assert {
 	public static void assertNotNull(String name, Object value) {

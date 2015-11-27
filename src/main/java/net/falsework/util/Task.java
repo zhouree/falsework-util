@@ -3,7 +3,6 @@ package net.falsework.util;
 /**
  * 任务接口类
  * 
- * @author alex
  */
 public interface Task<A, R, T extends Throwable> {
 	/**

@@ -7,7 +7,6 @@ import java.util.List;
 /**
  * 数字范围的交集检查器，判断各数字区间是否有交集
  * 
- * @author alex
  */
 public class IntersectionChecker {
 	/**

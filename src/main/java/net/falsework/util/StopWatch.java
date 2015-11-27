@@ -3,7 +3,6 @@ package net.falsework.util;
 /**
  * 简单秒表实现类
  * 
- * @author alex
  */
 public class StopWatch {
 	/**

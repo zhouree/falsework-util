@@ -9,7 +9,6 @@ import java.util.regex.Pattern;
 /**
  * 移动运营商工具类
  * 
- * @author alex
  */
 public final class MSPUtil {
 	/**

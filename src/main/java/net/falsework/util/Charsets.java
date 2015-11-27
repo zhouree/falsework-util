@@ -5,7 +5,6 @@ import java.nio.charset.Charset;
 /**
  * 常用字符集常量类
  * 
- * @author alex
  */
 public final class Charsets {
 	/**

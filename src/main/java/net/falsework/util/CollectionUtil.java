@@ -9,7 +9,6 @@ import java.util.Set;
 /**
  * 集合工具类
  * 
- * @author alex
  */
 public final class CollectionUtil {
 	/**

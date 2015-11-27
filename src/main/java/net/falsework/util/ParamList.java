@@ -7,7 +7,6 @@ import java.util.List;
 /**
  * 参数列表类
  * 
- * @author alex
  */
 public class ParamList<N, V> extends ArrayList<Param<N, V>> {
 	private static final long serialVersionUID = 1L;

@@ -3,7 +3,6 @@ package net.falsework.util;
 /**
  * 字节工具类
  * 
- * @author alex
  */
 public class ByteUtil {
 	/**

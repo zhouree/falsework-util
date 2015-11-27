@@ -9,7 +9,6 @@ import java.util.Set;
 /**
  * 文件映射工具类(非线程安全)，用于维护对象和文件的映射。当文件脱离映射时会被自动删除。
  * 
- * @author alex
  */
 public class FileMap<K> implements Map<K, File> {
 	/**

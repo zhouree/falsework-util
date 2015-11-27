@@ -9,7 +9,6 @@ import java.util.Set;
 /**
  * Map工具类
  * 
- * @author alex
  */
 public final class MapUtil {
 	/**

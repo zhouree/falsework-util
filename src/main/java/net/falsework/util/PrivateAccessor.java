@@ -6,7 +6,6 @@ import java.lang.reflect.Method;
 /**
  * 私有属性、方法访问器类。
  * 
- * @author sea.bao
  */
 public class PrivateAccessor {
 	public static Object getField(Object obj, String field) {

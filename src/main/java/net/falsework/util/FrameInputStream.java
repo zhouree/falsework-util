@@ -6,7 +6,6 @@ import java.io.InputStream;
 /**
  * Frame结构字节输入流。
  * 
- * @author sea.bao
  */
 public class FrameInputStream {
 	/**
